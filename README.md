@@ -22,9 +22,9 @@ Language translation
 
 
 
-**In this post we are going to learn how to use the Google Translation API so we can support and provide realtime translation in our app.**
+**In this post we are going to learn how to use the Translation API so we can support and provide realtime translation in our app.**
 
-You can find Cloud Translation API From [here](https://cloud.google.com/translate/docs/)
+You can find Cloud Translation API From [here](https://tech.yandex.com/translate/)
 
 # How it Works?
 
