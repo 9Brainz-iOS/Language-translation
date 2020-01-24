@@ -4,9 +4,9 @@ Language translation
 
 # What is Language-translation?
 
-1.Language-translation is Translating some text from a source language to a target language
+1.Language-translation is Translating some text from a source language to a target language.
 
-Once that's done, you can go ahead and get all your text translated into your target languages
+2.Once that's done, you can go ahead and get all your text translated into your target languages.
 
 # Output 
 
